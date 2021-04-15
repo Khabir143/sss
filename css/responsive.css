@@ -1,0 +1,334 @@
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+.banner{
+  height:36vh;
+}
+.footer-section{
+  height:42vh;
+}
+.book-table{
+  height:42vh;
+}
+
+.left{
+  height:25vh;
+}
+
+
+
+
+  /* CSS */
+  
+}
+
+
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 540px) {
+  
+
+.footer-section{
+  height:42vh;
+}
+
+.footer-foot{
+  justify-content: space-between;
+} 
+
+.footer-desc p{
+  font-size:5px;
+  width:50%;
+}
+
+.book-table{
+  height:80vh;
+}
+
+
+
+.banner{
+  height:16vh;
+}
+
+.banner h1{
+  font-size:35px;
+}
+.leftdes h1{
+  font-size:35px; 
+}
+.up  p{
+  margin:auto;
+  width:93%;
+}
+
+.banner h1{
+  font-size: 18px;
+}
+
+.banner h2{
+  font-size: 15px;
+}
+
+.banner p{
+padding: 4px 7px;
+    font-size: 6px;
+  
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+img.img-fluid{
+  margin-top:10px;
+  width:40%;
+}
+
+.contact-menu img{
+  width:10%;
+}
+
+.contact-menu{
+  margin-bottom: -63px;
+}
+
+.contact-menu span {
+
+  font-size:6px;
+  margin-left:4px;
+}
+
+.menu-list ul li a {
+  font-size: 6px;
+}
+
+.header{
+
+height:26vh;
+
+}
+
+.left {
+    
+  height:16vh;
+  text-align:center;
+
+}
+.img-des h2{
+  text-align:left;
+}
+
+.img-des h2 {
+  font-size:9px;
+}
+
+.img-des h1{
+  font-size:12px;
+}
+
+.image-top h2{
+
+
+font-size:5px;
+
+}
+
+.right h1{
+  margin-bottom: 0.1rem;
+}
+.image-top{
+  text-align: center;
+}
+
+.image-top h1{
+font-size:8px;
+}
+
+
+
+.image-bottom {
+text-align:center;
+}
+.image-bottom h2{
+font-size: 6px;
+
+}
+
+.image-bottom h1{
+
+font-size:8px;
+}
+
+.button-tag{
+  text-align:center;
+}
+
+.button{
+  
+    width: 98px;
+    height: 38px;
+    border: none;
+    text-align:center;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 600;
+    font-size: 11px;
+    cursor: pointer;
+
+}
+
+.up h1{
+font-size:14px; 
+
+}
+
+.up p{
+  font-size: 12px;
+}
+
+
+
+.img-des {
+    text-transform: uppercase;
+    position: absolute;
+    top: 30px;
+   left: 117px;
+}
+
+.img-des h2{
+text-align: center;
+
+}
+
+
+.img2-des {
+    position: absolute;
+    top: 20px;
+    left: 126px;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400 letter-spacing:1px;
+}
+
+
+
+
+
+.img3-des {
+    position: absolute;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 300px;
+    top: 20px;
+    left: 123px;
+    letter-spacing: 1px;
+
+}
+.up p{
+  width: 59%;
+font-size:6px;
+}
+.leftb p {
+font-size: 6px;
+
+  }
+.middleb p{
+  font-size: 6px;
+
+}
+
+.leftdes h1{
+  font-size:14px;
+}
+
+.leftdes p{
+  width:51%;
+  font-size:6px;
+
+}
+
+.rightb p{
+    font-size:6px;
+
+}
+
+.leftdes h3 {
+font-size:15px;
+
+}
+
+.table2 {
+    margin-top: 20px;
+    height: 30px;
+    padding: 10px;
+    width: 52%;
+
+
+.socail-icon ul{
+  display: inline-flex;
+}
+
+
+  /* CSS */
+
+  
+}
+
+.social-icon ul li a i{
+
+color: white;
+    text-align: center;
+    margin-top: 2px;
+    height: 30px;
+    width: 30px;
+    background-color: tomato;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 70%;
+    transition: 0.5s ease-in-out;
+    font-size:9px;
+}
+.footer-logo img.img-fluid{
+  width:20%;
+}
+.footer {
+padding: 0;
+}
+
+.footer-foot span{
+  font-size: 6px;
+}
+
+.social-icon ul{
+      padding-left: 0rem;
+}
+
+.table h1 {
+    color: #3d2514;
+    font-weight: 900;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: 'Alfa Slab One', cursive;
+    letter-spacing: 3px;
+    margin-bottom: 70px;
+
+}
+
+.table1 {
+    height: 30px;
+    padding: 10px;
+    width: 52%;
+    margin-top: 60px;
+}
+}
